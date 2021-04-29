@@ -1,6 +1,6 @@
 # The Quaalords - Theremin App
 
-Be like [the quaalords](thequaalords.bandcamp.com).
+Be like [the quaalords](https://thequaalords.bandcamp.com).
 
 Play a theremin.
 
